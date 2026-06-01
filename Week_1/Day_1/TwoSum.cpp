@@ -1,5 +1,5 @@
 class Solution {
-public:
+public://Only function(solution pasted from leetcode one)
     vector<int> twoSum(vector<int>& nums, int target) {
         unordered_map<int, int> Um;
         for (int i = 0; i < nums.size(); i++) {
